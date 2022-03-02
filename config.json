@@ -1,0 +1,9 @@
+{
+	"ip":"HelixRo.aternos.me",
+	"port": 45791,
+	"name": "ServerManagement",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (mawsina03(remember_no_spaces)) (mawsina03(remember_no_spaces))",
+	"login-cmd":"/login (mawsina03)"
+}
